@@ -1,0 +1,5 @@
+name: RaidOrganizer
+version: 1.0-SNAPSHOT
+main: me.phsyco3.raidorganizer.RaidOrganizer
+api-version: 1.13
+authors: [PHSYCO3, EmilJimenez21]

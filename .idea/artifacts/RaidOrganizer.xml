@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RaidOrganizer">
+    <output-path>$PROJECT_DIR$/RaidOrganizer</output-path>
+    <root id="archive" name="RaidOrganizer.jar">
+      <element id="module-output" name="Raid-Organizer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/kangarko/Foundation/5.3.8/Foundation-5.3.8.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
